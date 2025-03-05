@@ -1,0 +1,258 @@
+/* .mani{
+    height: 50%;
+    width: 100%;
+    /* font-family:fantasy;
+    font-size: 500px; */
+    /* background-image: linear-gradient(red,green,gray,yellow,blue); */
+    /* background-image: linear-gradient(rgba(255,10,10,0.5),blue); */
+
+    /* background-image:linear-gradient(to right,yellow 25%, skyblue 25% ,lightblue 25% ,red 25%); */
+
+    /* background-image: conic-gradient(red,blue,yellow,gray,green); */
+
+/* body{
+    background-image:url(./image/OIP.jpeg);
+}
+button{
+    opacity:0.5;
+}
+button:hover{
+    opacity: 1.0;
+}
+h1{
+    opacity:0.5;
+    background-color: red;
+}
+h1:hover{
+    opacity:1.0;
+} */
+/* 
+a{
+    text-decoration:none;
+    display: inline-block;
+    width:15%;
+}
+
+a:hover{
+    background-color: greenyellow;
+} */
+
+/* body{
+    background:url("./image/OIP.jpeg"),linear-gradient(45deg,red,green);
+    background-size: cover;
+    background-blend-mode: multiply;
+
+} */
+
+/* body{
+    background: linear-gradient(orange,white,green,aqua);
+    background: linear-gradient(to right ,orange,white,green,aqua,red);
+
+
+} */
+
+/* body{
+    background: url("./image/OIP.jpeg"),linear-gradient(red,green);
+    background-position: left top , right bottom;
+    background-repeat:  repeat,no-repeat;
+    background-size: 50px 50px;
+} */
+/* p{
+    border: 10px solid;
+    border-image:url(./image/OIP.jpeg) 30 round;
+    border-image:url(./image/OIP.jpeg) 30 stretch;
+    border-image: url(./image/OIP.jpeg) 30% round;
+} */
+/* .box{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(114, 181, 240);
+}
+.box div{
+    display:inline-block;
+}
+.mani1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+   
+}
+.mani2{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    position: absolute;
+}
+.mani3{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border-radius: 50%;
+} */
+
+
+/* Sample website */
+/* *{
+    margin:0px;
+    padding:0px;
+}
+.image{
+    height: 60px;
+    width: 60px;
+    float:left;
+    border-radius:50%;
+    margin-left: 20px;
+    margin-top:17px;
+    margin-right:70px;
+
+}
+.heading{
+    font-size:40px;
+    font-family:cursive;
+    padding-top:19px;
+    padding-bottom:25px;
+    
+}
+
+.box{
+    background-image: linear-gradient(rgb(222, 122, 122),rgb(138, 221, 138),rgb(114, 204, 239));
+    height: 120px;
+    
+   
+}
+a{
+    display:inline-block;
+    width:100px;
+    text-decoration: none;
+    font-weight:bolder;
+    text-align:center;
+    color: black;
+   
+}
+a:hover{
+    background-color:rgb(178, 126, 227);
+    border-radius:10px;
+}
+.box1{
+    background-color: antiquewhite;
+    margin:0px;
+}
+.para{
+    text-align: justify;
+}
+footer{
+    text-align:center;
+    background-color:rgb(162, 88, 88);
+    color: aliceblue;
+} */
+/* *{
+    margin:0%;
+    padding: 0%;
+}
+ul{
+list-style-type:none;
+background: aqua;
+font-size:20px;
+font-weight: bolder;
+position: fixed;
+
+}
+
+ul li{
+    display: inline-block;
+    
+}
+ul li a {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    display: block;
+    
+
+}
+
+ul li a:hover{
+    background-color:green;
+    color: aliceblue;
+}
+
+ul li{
+    float: left;
+}
+
+ul li ul li{
+    float: none;
+    display: none;
+    
+}
+
+ul li:hover ul li{
+    display: block;
+    background-color: antiquewhite;
+    color: black;
+} */
+
+/* #div1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color:  white;
+    margin-right:20px;
+    border-radius: 10px;
+    float: left;
+    
+}
+
+#div2{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color:  white;
+    visibility:hidden;
+    margin-right:20px;
+    border-radius: 10px;
+    float: left;
+    
+}
+#div3{
+    background-color:blue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color:  white;
+    margin-right:20px;
+    border-radius: 10px;
+    float: left;
+    
+}
+#div4{
+    background-color:yellowgreen;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color:  white;
+    border-radius: 10px;
+    float: left;
+    
+}
+ */
+/* h1{
+    box-shadow: 10px 10px 20px aqua;
+} */
+
+/* .box{
+    width:200px;
+    height:200px;
+    background: linear-gradient(45deg,red,green);
+    box-shadow: 20px 20px 10px blue;
+}
+h1{
+    color: white;
+    font-family: monospace;
+    font-size: 90px;
+    text-shadow: 10px 10px 5px greenyellow;
+} */
